@@ -1,7 +1,8 @@
 # inventory system
 hello fellows i have made another (probably useless) thing, this time in python (unsurprising)
 this lets you use commands such as `add(item)` and other random stuff to control an inventory
-
+# why is there a second one? 
+the original one and the one that will probably be developed more is on my profile, but this one is for learning and testing purposes mainly.
 ## usage rules
 if you want to use this, just credit me (HyperSource, or just link this repo) in your README or in a comment at the top of your python files using it. (or just a credits.md page would also work)
 
